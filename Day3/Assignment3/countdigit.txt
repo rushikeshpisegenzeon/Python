@@ -1,0 +1,1 @@
+Number of digits in 4567: 4
